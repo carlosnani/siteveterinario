@@ -1,3 +1,2 @@
-# siteveterinario
-Site para a disciplina Webdesing 
-Redesign criado para AV2 da diciplina webdesing 
+# site Amarican Pet 
+Redesign do site Amarican Petcriado para AV2 da diciplina webdesing 
