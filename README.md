@@ -1,3 +1,3 @@
 # Site Amarican Pet 
-Redesign do site Amarican Petcriado para AV2 da diciplina webdesing 
-Acesse: https://carlosnani.github.io/siteveterinario/
+Redesign do site American Pet, criado para AV2 da diciplina webdesing. <br> 
+<strong> Acesse:</strong>https://carlosnani.github.io/siteveterinario/
